@@ -2,7 +2,7 @@
 --track@dx_pixel:FD影X,-2000,2000,10,1
 --track@dy_pixel:FD影Y,-2000,2000,10,1
 --track@deep:濃さ(%),0,100,100,1
---color@col:影色,0x000000
+--color@col:影色,0xc81e1e
 --check@smooth_mode:滑らか,1
 
 --[[pixelshader@fd_shadow:
